@@ -154,5 +154,90 @@ This Option gives the User the possibility of exiting the panel show instantly, 
 ![Example screenshot](./img/screenshot.png)
 <!-- If you have screenshots you'd like to share, include them here. -->
 
+### HOME PAGE   
+
+![image](https://user-images.githubusercontent.com/57800546/151584457-3ae4b798-fe47-48dc-bd00-afbb591a1900.png)
+
+### CHOICE 1: EVALUATION MODE
+
+#### USER ENTRY FORM
+
+![image](https://user-images.githubusercontent.com/57800546/151584581-3974177b-4aaf-4cf6-8173-8638de7c7660.png)
+
+          
+#### SAMPLE EVALUATION MODE
+
+![image](https://user-images.githubusercontent.com/57800546/151584631-14c0dc00-ea9d-444b-8a41-534670e441f3.png)
+
+ 
+
+
+### 3)	CHOICE 2: TEST MODE
+#### USER ENTRY FORM
+
+![image](https://user-images.githubusercontent.com/57800546/151584682-9a18172d-f61e-44a5-9ec0-7493f90e4763.png)
+
+
+ 
+#### RULES AND REGULATIONS
+
+![image](https://user-images.githubusercontent.com/57800546/151584728-944bce16-38df-4516-ba0f-6196632526a7.png)
+
+ 
+
+#### SAMPLE TEST MODE
+
+![image](https://user-images.githubusercontent.com/57800546/151584815-66f6272b-df2d-4f56-b0db-ff9132cac85e.png)
+
+ 
+
+
+
+#### CORRECT ANSWER
+
+![image](https://user-images.githubusercontent.com/57800546/151584841-955d066a-1f93-40ea-b3ba-509e1c4f771c.png)
+
+ 
+
+#### CORRECT ANSWER TRANSITION
+
+![image](https://user-images.githubusercontent.com/57800546/151584890-7ca2f576-fb0b-4e3f-ac0a-c4db15dab8ac.png)
+
+
+ 
+
+#### WRONG ANSWER
+
+![image](https://user-images.githubusercontent.com/57800546/151585007-451a93b4-3439-4c6e-9e48-dd18b10c880f.png)
+
+ 
+
+#### WRONG ANSWER TRANSITION
+
+![image](https://user-images.githubusercontent.com/57800546/151585026-7b7d302e-72a1-4e92-80d7-dea005a031d5.png)
+
+ 
+
+#### WINNER
+
+![image](https://user-images.githubusercontent.com/57800546/151585037-e51d2089-9cb4-4780-9390-d162ca52a4aa.png)
+
+ 
+
+
+#### RETURN TO MENU
+
+![image](https://user-images.githubusercontent.com/57800546/151585051-84a6e52c-c0a5-4230-ad60-010b43d11b55.png)
+
+ 
+#### QUIT                  
+
+![image](https://user-images.githubusercontent.com/57800546/151585071-8bab770f-2513-49c9-a3c9-1d428d4e51e8.png)
+
+
+
+
+
+
 
 
