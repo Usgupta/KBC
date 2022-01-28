@@ -7,15 +7,10 @@
 ## Table of Contents
 * [Characterstics Of The Program](#characterstics-of-the-program)
 * [Program Outline](#program-outline)
-* [Features](#features)
 * [Screenshots](#screenshots)
-* [Setup](#setup)
-* [Usage](#usage)
-* [Project Status](#project-status)
 * [Room for Improvement](#room-for-improvement)
 * [Acknowledgements](#acknowledgements)
 * [Contact](#contact)
-<!-- * [License](#license) -->
 
 
 ## Room for Improvement
@@ -151,8 +146,7 @@ This Option gives the User the possibility of exiting the panel show instantly, 
 
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
-<!-- If you have screenshots you'd like to share, include them here. -->
+
 
 ### HOME PAGE   
 
