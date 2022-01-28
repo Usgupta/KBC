@@ -1,46 +1,14 @@
 # KBC
 
-# Project Name
-> Outline a brief description of your project.
-> Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
+The C++ Program titled, “KAUN BANEGA CROREPATI” brings forth the Computerized version of the globally acclaimed Television show syndicated by the same name. Alternatively the 'Who wants to be a millionaire' Show
+
 
 ## Table of Contents
 * [Characterstics Of The Program](#characterstics-of-the-program)
 * [Program Outline](#program-outline)
 * [Screenshots](#screenshots)
-* [Room for Improvement](#room-for-improvement)
-* [Acknowledgements](#acknowledgements)
 * [Contact](#contact)
 
-
-## Room for Improvement
-Include areas you believe need improvement / could be improved. Also add TODOs for future development.
-
-Room for improvement:
-- Improvement to be done 1
-- Improvement to be done 2
-
-To do:
-- Feature to be added 1
-- Feature to be added 2
-
-
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- This project was based on [this tutorial](https://www.example.com).
-- Many thanks to...
-
-
-## Contact
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
-
-
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
 
 ## Characterstics Of The Program 
 
@@ -228,6 +196,9 @@ This Option gives the User the possibility of exiting the panel show instantly, 
 
 ![image](https://user-images.githubusercontent.com/57800546/151585071-8bab770f-2513-49c9-a3c9-1d428d4e51e8.png)
 
+
+## Contact
+Created by [@Usgupta](https://github.com/Usgupta) - feel free to contact me!
 
 
 
