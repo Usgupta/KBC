@@ -6,6 +6,9 @@ The C++ Program titled, “KAUN BANEGA CROREPATI” brings forth the Computerize
 An attempt at the Computerized “Kaun Banega Crorepati” Quiz Show allows the Users to test their Knowledge to the fullest extent, driving minds to excogitate with exciting questions in limited time frames.
 Identical circumstances to the Television Show provide the user with an experience unlike any before. Specified time limits with timer sounds and Computerized reverberations extend throughout the duration of the Quiz and keep the excitement and tension whirring.
 The Project utilizes and involves the following C++ topics in the development of the “KAUN BANEGA CROREPATI” computerized panel game system.
+
+![image](https://user-images.githubusercontent.com/57800546/151580004-b6fd8f98-d8f9-4fc7-8765-699ba04d7118.png)
+
  	DATA FILE HANDLING
  	CLASSES AND OBJECTS
  	FUNCTIONS
