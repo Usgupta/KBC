@@ -6,7 +6,7 @@
 
 ## Table of Contents
 * [Characterstics Of The Program](#general-information)
-* [Technologies Used](#technologies-used)
+* [Program Outline](#program-outline)
 * [Features](#features)
 * [Screenshots](#screenshots)
 * [Setup](#setup)
@@ -39,9 +39,6 @@ List the ready features here:
 - Awesome feature 3
 
 
-## Screenshots
-![Example screenshot](./img/screenshot.png)
-<!-- If you have screenshots you'd like to share, include them here. -->
 
 
 ## Setup
@@ -90,7 +87,7 @@ Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
 
 <!-- You don't have to include all sections - just the one's relevant to your project -->
 
-## CHARACTERISTICS OF THE PROGRAM
+## Characterstics Of The Program 
 
 The C++ Program titled, “KAUN BANEGA CROREPATI” brings forth the Computerized version of the globally acclaimed Television show syndicated by the same name, maneuvered with the help of the C++ Language and its multifarious features.
 
@@ -107,26 +104,26 @@ The Project utilizes and involves the following C++ topics in the development of
 The Program is developed to provide the User with three options, which are based on the Basic Quizzing format.
 
 
-### FIRST CHOICE: EVALUATION MODE 
+### First Choice: EVALUATION MODE 
 
 This Option provides the User with the hands-on experience of the Quiz along with the basic validation features for the panel game, wherein, the User can have a meticulous look into the Project. It provides the Evaluator with the Answer Key to the entire Quiz show to be able to conduct in-depth analysis through the course of the Quiz and experience all possible outcomes.
 
 
-### SECOND CHOICE: TEST MODE:
+### Second Choice: TEST MODE:
 This Option provides the testing frame for the User to enter the competition and obtain the glory of a “Kaun Baega Crorepati” victor. 10 Questions of gradually ascending complexity test the User within the determined timespan to reach the ultimate goal of overcoming their own barriers of Knowledge.
 It provides conditions much alike that of the actual Quiz Show by gathering Candidate Information and allotting prizes for each varying level of question intricacy.
 It also gives the User the ability to Return to Menu at any given point of time, using the specified ‘M’ or ‘m’ keys on the keyboard, with their yielded purse or Quit to Exit the Program instantly with the ‘Q’ or ‘q’ keys. 
 
 
-### THIRD CHOICE: QUIT MODE:
+### Third Choice: QUIT MODE:
 This Option gives the User the possibility of exiting the panel show instantly, at any point of time. 
 
 
 
 
-## PROGRAM OUTLINE:
+## Program Outline:
 
-### INCORPORATED HEADER FILES 
+### Incorporated Header Files 
 
 • #include<iostream.h>: - This header file is used for input and output function and is a C++ library function 
 
@@ -145,7 +142,7 @@ This Option gives the User the possibility of exiting the panel show instantly, 
 •	#include<ctype.h>: - This header file performs character type functions
 
 
-### INCOPORTATED DECLARED FUNCTIONS
+### Incorporated DECLARED FUNCTIONS
 
 •	char checkans(char answer,int level): - To check whether the option selected by the user is correct.
 
@@ -156,7 +153,7 @@ This Option gives the User the possibility of exiting the panel show instantly, 
 •	kbhit(): - It returns a non-zero integer if a key is in the keyboard buffer. It will not wait for a key to be pressed.
 
 
-### INCORPORATED DECLARED VARIABLES:
+### Incorporated Declared Variables:
 
 •	char name[20]: - To obtain Name of the candidate
 
@@ -193,6 +190,9 @@ This Option gives the User the possibility of exiting the panel show instantly, 
 
 
 
+## Screenshots
+![Example screenshot](./img/screenshot.png)
+<!-- If you have screenshots you'd like to share, include them here. -->
 
 
 
