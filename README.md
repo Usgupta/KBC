@@ -1,6 +1,6 @@
 # KBC
 
-The C++ Program titled, “KAUN BANEGA CROREPATI” brings forth the Computerized version of the globally acclaimed Television show syndicated by the same name. Alternatively it is also known as The 'Who wants to be a millionaire' Show
+The C++ Program titled, “KAUN BANEGA CROREPATI” brings forth the Computerized version of the globally acclaimed Television show syndicated by the same name. It is also alternatively  known as The **'Who wants to be a millionaire'** Show
 
 
 ## Table of Contents
